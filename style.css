@@ -1,0 +1,41 @@
+.M1{
+    background-image: url("./images/Macleran.webp");
+    height: 1000px;
+    width: 1435px;
+}
+
+.ezz1{
+    background-image: url("./images/ferrari_p.avif");
+}
+
+.M22{
+    height: 820px;
+}
+
+.M2{
+    height: 370px;
+}
+
+
+.intro-label{
+    height: 20px;
+    font-size: 50px;
+    font-style: italic;
+    margin-left: 300px;
+}
+
+
+/* .F1{
+    background-image: url("./images/ferrari-sf90-spider.avif");
+    height: 1000px;
+} */
+
+#carouselExample {
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+#carouselExampleFade{
+    margin-left: 70px;
+    margin-right: 70px;
+}
